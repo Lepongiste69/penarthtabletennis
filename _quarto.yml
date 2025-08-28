@@ -8,6 +8,7 @@ website:
       - index.qmd
       - about.qmd
       - play.qmd
+      - membership.qmd
       - support.qmd
       - contact.qmd 
       - safeguarding.qmd
