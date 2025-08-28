@@ -10,6 +10,7 @@ On this website, find information:
 
 -	[About the club](about.qmd)
 -	[To play table tennis with us](play.qmd)
+- [To become a member](membership.qmd)
 -	[To support us](support.qmd)
 -	[To contact us](contact.qmd)
 -	[About safeguarding](safeguarding.qmd)
