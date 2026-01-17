@@ -22,7 +22,11 @@ Festive break
 | Friday 30 January 2026 | Main Hall | 5.30-6.45pm |
 | Friday 6 February 2026 | Sports Hall | 5.30-6.45pm |
 | Friday 13 February 2026 | Sports Hall | 5.30-6.45pm |
-| Friday 20 February 2026 | Sports Hall | 5.30-6.45pm |
+
+One-week break
+
+| Date | Venue | Time | To note |
+| -------- | -------- | -------- | -------- |
 | Friday 27 February 2026 | Sports Hall | 5.30-6.45pm |
 | Friday 6 March 2026 | Sports Hall | 5.30-6.45pm |
 | Friday 13 March 2026 | Sports Hall | 5.30-6.45pm |
