@@ -4,6 +4,6 @@ title: "Shop"
 
 15 February 2026: page under construction, please come back shortly! 
 
-The club partnered with kit provider VX3 to develop a range of branded products. You can browse the full range directly below or on the VX3 website. All proceeds go directly to VX3.
+The club partnered with kit provider VX3 to develop a range of branded products. You can browse the full range directly below or on the [VX3 website](https://vx-3.com/collections/penarth-table-tennis). All proceeds go directly to VX3.
 
 <iframe src="https://vx-3.com/collections/penarth-table-tennis" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
