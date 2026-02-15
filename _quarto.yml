@@ -9,6 +9,7 @@ website:
       - about.qmd
       - play.qmd
       - membership.qmd
+      - shop.qmd
       - support.qmd
       - contact.qmd 
       - safeguarding.qmd
