@@ -16,4 +16,4 @@ On this website, find information:
 -	[To contact us](contact.qmd)
 -	[About safeguarding](safeguarding.qmd)
 
-![](Group.png){width=500}
+![](Group.jpg){width=500}
