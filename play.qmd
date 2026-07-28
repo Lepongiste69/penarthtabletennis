@@ -24,4 +24,4 @@ Those attending our sessions regularly are invited to fill this [form](https://d
 
 We are also hoping to hold larger events for the community. To be notified, check options on the [contact us](contact.qmd) page.
 
-![](BusyRoom.jpg){width=500}
+![](AandM.jpg){width=500}
