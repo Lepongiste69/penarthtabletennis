@@ -16,4 +16,6 @@ On this website, find information:
 -	[To contact us](contact.qmd)
 -	[About safeguarding](safeguarding.qmd)
 
+The club is currently looking for a self-employed coach (August 2026). Find out more and apply [here](recruitment.qmd).
+
 ![](Group.jpg){width=500}
