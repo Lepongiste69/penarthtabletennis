@@ -2,8 +2,6 @@
 title: "Home"
 ---
 
-**The club is currently looking for a self-employed coach (August 2026). Find out more and apply [here](recruitment.qmd).**
-
 ![](logo_rond_fondblanc.png){width=100}
 
 Welcome to the website of the Penarth Table Tennis Club.
