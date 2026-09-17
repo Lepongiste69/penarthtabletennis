@@ -1,5 +1,5 @@
 ---
-title: "Juniors sessions"
+title: "Juniors"
 ---
 
 This is a beta version of the page. Please ignore for now.
