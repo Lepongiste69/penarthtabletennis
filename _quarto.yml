@@ -7,8 +7,7 @@ website:
     left:
       - index.qmd
       - about.qmd
-      - play.qmd
-      - membership.qmd
+      - community.qmd
       - juniors.qmd
       - shop.qmd
       - support.qmd
