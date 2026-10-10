@@ -10,7 +10,7 @@ On this website, find information:
 
 -	[About the club](about.qmd)
 -	[About our community sessions](play.qmd)
-- [About our juniors sessions](juniors.qmd)
+-	[About our juniors sessions](juniors.qmd)
 -	[To browse the club's shop](shop.qmd)
 -	[To support us](support.qmd)
 -	[To contact us](contact.qmd)
