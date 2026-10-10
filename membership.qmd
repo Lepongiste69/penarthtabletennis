@@ -2,6 +2,8 @@
 title: "Membership"
 ---
 
+**This page has been archived and is no longer being updated. Please return to the website's [landing page](index.qmd).**
+
 We welcome new members at all times.
 
 Anyone joining our Friday community sessions can use our "pay as you go" option (see [here](play.qmd)).
